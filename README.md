@@ -41,7 +41,7 @@
 <p style="font-size: 16px;">To demonstrate the practical application of the OOP concepts discussed, this repository includes a mini project based on a hotel management system. This project integrates various OOP principles to create a functional and efficient system.</p>
 <h2>Getting Started</h2>
 <p style="font-size: 16px;">To get started with the repository, clone it to your local machine using the following command:</p>
-bash<BR>
+<BR>
 git clone https://github.com/Chandra-Sekhar-Dutta/Object-Oriented-programing
 <h2>Contact</h2>
 <p style="font-size: 16px;">For any questions or feedback, feel free to open an issue or contact me at <a href="mailto:-chandrasekhardutta3@gmail.com">chandrasekhardutta3@gmail.com</a>.</p>
