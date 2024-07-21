@@ -42,6 +42,6 @@
 <h2>Getting Started</h2>
 <p style="font-size: 16px;">To get started with the repository, clone it to your local machine using the following command:</p>
 bash<BR>
-git clone https:[//github.com/yourusername/oop-concepts-cpp.git](https://github.com/Chandra-Sekhar-Dutta/Object-Oriented-programing)
+git clone https://github.com/Chandra-Sekhar-Dutta/Object-Oriented-programing
 <h2>Contact</h2>
 <p style="font-size: 16px;">For any questions or feedback, feel free to open an issue or contact me at <a href="mailto:-chandrasekhardutta3@gmail.com">chandrasekhardutta3@gmail.com</a>.</p>
