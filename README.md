@@ -14,8 +14,6 @@
 <li>Enum</li>
 <li>Mini Project: Hotel Management System</li>
 <li>Getting Started</li>
-<li>Contributing</li>
-<li>License</li>
 <li>Contact</li>
 </ol>
 
@@ -45,9 +43,5 @@
 <p style="font-size: 16px;">To get started with the repository, clone it to your local machine using the following command:</p>
 bash<BR>
 git clone https:[//github.com/yourusername/oop-concepts-cpp.git](https://github.com/Chandra-Sekhar-Dutta/Object-Oriented-programing)
-<h2>Contributing</h2>
-<p style="font-size: 16px;">Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.</p>
-<h2>License</h2>
-<p style="font-size: 16px;">This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.</p>
 <h2>Contact</h2>
 <p style="font-size: 16px;">For any questions or feedback, feel free to open an issue or contact me at <a href="mailto:-chandrasekhardutta3@gmail.com">your-chandrasekhardutta3@gmail.com</a>.</p>
