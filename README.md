@@ -43,8 +43,7 @@
 <p style="font-size: 16px;">To demonstrate the practical application of the OOP concepts discussed, this repository includes a mini project based on a hotel management system. This project integrates various OOP principles to create a functional and efficient system.</p>
 <h2>Getting Started</h2>
 <p style="font-size: 16px;">To get started with the repository, clone it to your local machine using the following command:</p>
-bash
-<h2>Copy code</h2>
+bash<BR>
 git clone https:[//github.com/yourusername/oop-concepts-cpp.git](https://github.com/Chandra-Sekhar-Dutta/Object-Oriented-programing)
 <h2>Contributing</h2>
 <p style="font-size: 16px;">Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.</p>
